@@ -5,6 +5,5 @@
 - 📫 How to reach me: castawaypalmtree@gmail.com
 - 😄 Pronouns: He/Him
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 
