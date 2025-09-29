@@ -7,6 +7,4 @@
 - Say hey at hey@slitrostudio.com
 - Pronouns: He/Him
 
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=6557&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-"/>
-
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
