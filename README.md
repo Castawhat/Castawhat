@@ -7,4 +7,3 @@
 - Say hey at hey@slitrostudio.com
 - Pronouns: He/Him
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
